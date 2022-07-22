@@ -25,4 +25,5 @@ provider 6.0
 
 
 
-오디(평범한 개발자) 후원하기 : ![https://toon.at/donate/637938302883437403](https://toon.at/assets/frontend/toonation/donator/assets/images/toonation_logo.png) https://toon.at/donate/637938302883437403
+오디(평범한 개발자) 후원하기 : [![후원](https://toon.at/assets/frontend/toonation/donator/assets/images/toonation_logo.png)](https://toon.at/donate/637938302883437403)   
+                              후원 link : https://toon.at/donate/637938302883437403
