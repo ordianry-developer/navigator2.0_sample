@@ -9,9 +9,9 @@ flutter navgiator 2.0 학습을 위한 SAMPLE APP
 
 ## Env
 
-flutter 3.0
-dart 2.17
-provider 6.0
+flutter 3.0  
+dart 2.17  
+provider 6.0  
 
 
 
